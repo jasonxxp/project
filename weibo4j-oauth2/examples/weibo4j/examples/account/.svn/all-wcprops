@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/account
+END
+GetUid.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/account/GetUid.java
+END
+GetAccountPrpfileSchoolList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/account/GetAccountPrpfileSchoolList.java
+END
+GetAccountPrivacy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/account/GetAccountPrivacy.java
+END
+GetAccountRateLimitStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/account/GetAccountRateLimitStatus.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends
+END
+GetTrends.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/GetTrends.java
+END
+GetTrendsWeekly.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/GetTrendsWeekly.java
+END
+GetTrendsDaily.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/GetTrendsDaily.java
+END
+TrendsFollow.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/TrendsFollow.java
+END
+GetTrendsHourly.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/GetTrendsHourly.java
+END
+TrendDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/TrendDestroy.java
+END
+IsFollow.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/trends/IsFollow.java
+END

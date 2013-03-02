@@ -1,0 +1,61 @@
+10
+
+dir
+5
+https://antsweibo.googlecode.com/svn/trunk/weibo4j-oauth2/examples/weibo4j/examples
+https://antsweibo.googlecode.com/svn
+
+
+
+2012-11-13T12:15:03.910269Z
+3
+jasonxxp@tom.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91411bc2-3756-9471-5926-2a24c1985162
+
+trends
+dir
+
+oauth2
+dir
+
+favorites
+dir
+
+comment
+dir
+
+search
+dir
+
+timeline
+dir
+
+suggestions
+dir
+
+account
+dir
+
+user
+dir
+
+friendships
+dir
+
+tags
+dir
+

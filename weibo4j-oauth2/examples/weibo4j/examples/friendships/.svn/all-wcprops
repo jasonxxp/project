@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships
+END
+GetFriendsByID.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsByID.java
+END
+CreateFriendships.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/CreateFriendships.java
+END
+DestroyFriendshipsDestroyById.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/DestroyFriendshipsDestroyById.java
+END
+GetFriendsBilateralIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsBilateralIds.java
+END
+GetFriendsBilateral.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsBilateral.java
+END
+GetFollowers.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFollowers.java
+END
+GetFollowersIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFollowersIds.java
+END
+GetFollowsActive.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFollowsActive.java
+END
+GetRemark.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetRemark.java
+END
+GetFollowersById.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFollowersById.java
+END
+GetFriendsByName.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsByName.java
+END
+GetFriendsIdsByName.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsIdsByName.java
+END
+GetFriendsChainFollowers.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsChainFollowers.java
+END
+GetFriendsIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsIds.java
+END
+GetFriendsInCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/friendships/GetFriendsInCommon.java
+END

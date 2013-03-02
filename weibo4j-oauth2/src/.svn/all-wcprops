@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/4/trunk/weibo4j-oauth2/src
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/config.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/log4j.properties
+END

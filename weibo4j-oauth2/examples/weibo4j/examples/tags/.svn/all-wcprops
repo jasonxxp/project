@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags
+END
+GetTagsBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/GetTagsBatch.java
+END
+CreateTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/CreateTags.java
+END
+DestroyTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/DestroyTag.java
+END
+GetTagsSuggestions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/GetTagsSuggestions.java
+END
+DestroyTagsBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/DestroyTagsBatch.java
+END
+GetTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/tags/GetTags.java
+END

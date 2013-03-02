@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model
+END
+Trends.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Trends.java
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Source.java
+END
+StatusWapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/StatusWapper.java
+END
+Favorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Favorites.java
+END
+Comment.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Comment.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Gender.java
+END
+Paging.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Paging.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Query.java
+END
+ApiRateLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/ApiRateLimits.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Configuration.java
+END
+MySSLSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/MySSLSocketFactory.java
+END
+Emotion.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Emotion.java
+END
+UserTrend.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/UserTrend.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Tag.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Constants.java
+END
+Trend.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Trend.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/User.java
+END
+IDs.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/IDs.java
+END
+CommentWapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/CommentWapper.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Status.java
+END
+WeiboResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/WeiboResponse.java
+END
+WeiboException.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/WeiboException.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Version.java
+END
+PostParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/PostParameter.java
+END
+School.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/School.java
+END
+TagWapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/TagWapper.java
+END
+UserWapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/UserWapper.java
+END
+Visible.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/Visible.java
+END
+FavoritesTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/FavoritesTag.java
+END
+RateLimitStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/src/weibo4j/model/RateLimitStatus.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions
+END
+SuggestionsStatusesHot.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions/SuggestionsStatusesHot.java
+END
+SuggestionsUsersNot_interested.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions/SuggestionsUsersNot_interested.java
+END
+SuggestionsUsersHot.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions/SuggestionsUsersHot.java
+END
+SuggestionsFavoritesHot.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions/SuggestionsFavoritesHot.java
+END
+SuggestionsUsersMayInterested.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/suggestions/SuggestionsUsersMayInterested.java
+END

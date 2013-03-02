@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites
+END
+ShowFavorite.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/ShowFavorite.java
+END
+GetFavoritesTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/GetFavoritesTags.java
+END
+GetFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/GetFavorites.java
+END
+GetFavoritesIds.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/GetFavoritesIds.java
+END
+UpdateFavoritesTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/UpdateFavoritesTags.java
+END
+UpdateFavoritesTagsBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/UpdateFavoritesTagsBatch.java
+END
+CreateFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/CreateFavorites.java
+END
+GetFavoritesByTags.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/GetFavoritesByTags.java
+END
+DestroyFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/DestroyFavorites.java
+END
+DestroyFavoritesTagsBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/DestroyFavoritesTagsBatch.java
+END
+DestroyFavoritesBatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/favorites/DestroyFavoritesBatch.java
+END

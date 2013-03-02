@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search
+END
+SearchSuggestionsCompanies.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/SearchSuggestionsCompanies.java
+END
+searchSuggestionsUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/searchSuggestionsUsers.java
+END
+SearchSuggestionsApps.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/SearchSuggestionsApps.java
+END
+SearchSuggestionsAt_users.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/SearchSuggestionsAt_users.java
+END
+SearchSuggestionsSchools.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/SearchSuggestionsSchools.java
+END
+SearchSuggestionsStatuses.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/weibo4j-oauth2/examples/weibo4j/examples/search/SearchSuggestionsStatuses.java
+END
